@@ -96,8 +96,8 @@ function buildCharts(sample) {
     // 9. Create the layout for the bar chart. 
     var data = [trace];
     var barLayout = {
-      title: "Top 10 Bacteria Cultures Found",
-      margin: {t: 30, 1 : 150},
+      title: "<br><b>Top 10 Bacteria Cultures Found</b>",
+      //margin: {t: 30, 1 : 150},
       
   };
  
@@ -125,7 +125,7 @@ console.log("within trace");
 // 2. Create the layout for the bubble chart.
 var data1 = [trace1];
 var bubbleLayout = {
-  title: "Bacteria Cultures Per Sample",
+  title: "<b>Bacteria Cultures Per Sample</b>",
   showlegend: false,
   xaxis : {title : "OTU ID", automargin:true},
   yaxis: {automargin: true},
