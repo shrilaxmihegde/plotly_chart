@@ -10,6 +10,8 @@ In this project :
 6. How to use interactivity to enhance your visualizations.
 7. Deploy an interactive chart to GitHub Pages.
 
-You can access the interactive dashbaord here
+You can access the interactive dashbaord [here](https://shrilaxmihegde.github.io/plotly_chart/)
+
+
 ![BellyButtonDashboard-1)](/Resources/BellyButton_dashboard-1.png) 
 ![OTUDashboard)](/Resources/OTU_Dashboard.png)
